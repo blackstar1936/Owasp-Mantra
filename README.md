@@ -211,4 +211,4 @@ OWASP Mantra is offered as a complete free version with all features unlocked an
 Elevate your web security today with OWASP Mantra! Download now and explore the complete toolkit for free!
 
 ---
-**Last updated:** 2026-11-06 03:08:05 UTC
+**Last updated:** 2026-11-06 11:48:03 UTC
